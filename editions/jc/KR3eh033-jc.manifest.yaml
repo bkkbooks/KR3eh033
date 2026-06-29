@@ -1,0 +1,240 @@
+canonical_identifier: bkk:krp/KR3eh033/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eh033/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 評琴書屋醫略
+  identifiers:
+    krp: KR3eh033
+  tags:
+    kr-categories: KR3eh
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eh033.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eh033_000-jc.yaml, hash: 'sha256:3b91f2a322b1f71e858570a80aaa2ba90152904ae1e65320857792c1a9ce5a40'}
+  - {seq: 1, filename: KR3eh033_001-jc.yaml, hash: 'sha256:dd010ebab1fb37bf8cae069189a071faefd169306de7ec5985e76eeaa643d439'}
+  - {seq: 2, filename: KR3eh033_002-jc.yaml, hash: 'sha256:d7de869b309c871e942a7cdaa5729608eadc9e144d0c935268abad103e7742b2'}
+  - {seq: 3, filename: KR3eh033_003-jc.yaml, hash: 'sha256:58a1d59a3229e814918d30e4cc9108870b27c18a0a2f837a192442a5fa142d6a'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eh033_000-jc.markers.yaml, hash: 'sha256:f41cad0ae3eab1d91591f99cffc4771a666202c6c93665dcdfb12e597b2035b6'}
+  - {seq: 1, role: markers, filename: assets/KR3eh033_001-jc.markers.yaml, hash: 'sha256:d5517654d995baeae70a911a870ab47e14c859a045c9d2d9822816afcce4b662'}
+  - {seq: 2, role: markers, filename: assets/KR3eh033_002-jc.markers.yaml, hash: 'sha256:f8becdde6bed20e68beeb80601a02d66f25ded94f0966f92a1f5dcfde225bb61'}
+  - {seq: 3, role: markers, filename: assets/KR3eh033_003-jc.markers.yaml, hash: 'sha256:4a51591badd3d8f79aae417979818f767b8e78dbb28ad903ab533454861cff98'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eh033_jc_000-d3.h1s1
+    span:
+    - front
+    - 0
+    - 686
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh033_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 297
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eh033_jc_000-d4.h1s1
+    span:
+    - body
+    - 297
+    - 846
+  label: 附詩並各題贈
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eh033_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 5881
+  label: 評琴書屋醫略卷一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3eh033_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 7255
+  label: 評琴書屋醫略卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 9210
+  label: 評琴書屋醫略卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d2
+    span:
+    - body
+    - 8
+    - 63
+  label: 淋症濁癃閉同考
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d3
+    span:
+    - body
+    - 63
+    - 320
+  label: 治淋症方可統治五淋宜辨症加引
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d4
+    span:
+    - body
+    - 320
+    - 650
+  label: 附案二石淋
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d5
+    span:
+    - body
+    - 650
+    - 836
+  label: 治濁症方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d6
+    span:
+    - body
+    - 836
+    - 1136
+  label: 遺精
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d7
+    span:
+    - body
+    - 1136
+    - 1507
+  label: 便血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d8
+    span:
+    - body
+    - 1507
+    - 1860
+  label: 小便血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d9
+    span:
+    - body
+    - 1860
+    - 2157
+  label: 衄血
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d10
+    span:
+    - body
+    - 2157
+    - 2830
+  label: 吐血有內因外因
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d11
+    span:
+    - body
+    - 2830
+    - 3064
+  label: 附案肝病誤治胃
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d12
+    span:
+    - body
+    - 3064
+    - 3397
+  label: 又案胃病誤治肝
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d13
+    span:
+    - body
+    - 3397
+    - 4494
+  label: 又案苦寒過服元氣受傷
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d14
+    span:
+    - body
+    - 4494
+    - 5104
+  label: 咳嗽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d15
+    span:
+    - body
+    - 5104
+    - 7093
+  label: 附案咳嗽而瘖
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eh033_jc_003-d7d16
+    span:
+    - body
+    - 7093
+    - 9210
+  label: 附寄馮蕙庭君調養牌胃諭
+  type: section
+  level: 2
+hash: sha256:6333f54fe8683e23cedcd9c0dde73730de47d5e710e1d08cf3cc963e8bd79505
