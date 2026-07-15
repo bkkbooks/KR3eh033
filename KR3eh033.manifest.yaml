@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eh033/v1
 canonical_location: https://kanripo.org/bkk/KR3eh033/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 評琴書屋醫略
   identifiers:
@@ -17,15 +17,15 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eh033_000.yaml, hash: 'sha256:3b91f2a322b1f71e858570a80aaa2ba90152904ae1e65320857792c1a9ce5a40'}
-  - {seq: 1, filename: KR3eh033_001.yaml, hash: 'sha256:dd010ebab1fb37bf8cae069189a071faefd169306de7ec5985e76eeaa643d439'}
-  - {seq: 2, filename: KR3eh033_002.yaml, hash: 'sha256:d7de869b309c871e942a7cdaa5729608eadc9e144d0c935268abad103e7742b2'}
-  - {seq: 3, filename: KR3eh033_003.yaml, hash: 'sha256:58a1d59a3229e814918d30e4cc9108870b27c18a0a2f837a192442a5fa142d6a'}
+  - {seq: 0, filename: KR3eh033_000.yaml, hash: 'sha256:687524b6976d895d2128e515c4431ccad1ea9087732c69fc428d8827b35fadb3'}
+  - {seq: 1, filename: KR3eh033_001.yaml, hash: 'sha256:0186a6bc7c20ee84962144ca11a35c53cf2807b2b8f46fb620f5a4e8efe2f11a'}
+  - {seq: 2, filename: KR3eh033_002.yaml, hash: 'sha256:efc6baad6569e680e0b5a62bc260265e27bf38c235c3e445f107383f4fb8d86a'}
+  - {seq: 3, filename: KR3eh033_003.yaml, hash: 'sha256:6349a8230cd39fcf7629845ab0354a083fdd6cff23c90969820e30a665e603c8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eh033_000.markers.yaml, hash: 'sha256:8f7a54571132cfdcf257db4225372efa3e92b84ecce06b8ff2ade977684587a6'}
-  - {seq: 1, role: markers, filename: assets/KR3eh033_001.markers.yaml, hash: 'sha256:cbd995fa6c29c9ac6319eaa18c589a3d3ff33fe4bb43ec4740590aaed91372cb'}
-  - {seq: 2, role: markers, filename: assets/KR3eh033_002.markers.yaml, hash: 'sha256:7994c885215e8b06cd246ff4fdf960a0c47cfd07660fa0b935a66a01cae8c16d'}
-  - {seq: 3, role: markers, filename: assets/KR3eh033_003.markers.yaml, hash: 'sha256:0581e59156354ef5c228e41764d02f56a2a650dbad68c436beb0a06e435ae799'}
+  - {seq: 0, role: markers, filename: assets/KR3eh033_000.markers.yaml, hash: 'sha256:17cc6ab753db96fe7cbda758d790e61b4cb6b890e8e5c9123edf3160a209a340'}
+  - {seq: 1, role: markers, filename: assets/KR3eh033_001.markers.yaml, hash: 'sha256:33526ca65f44ab117a142d98a2a0cafd962818618aa312df5bf4339a171ab77a'}
+  - {seq: 2, role: markers, filename: assets/KR3eh033_002.markers.yaml, hash: 'sha256:400fcc1857e5febd23c3c1579dfec2b50c978f978c130aa59017729dbe64a1fe'}
+  - {seq: 3, role: markers, filename: assets/KR3eh033_003.markers.yaml, hash: 'sha256:b958a23a9560f53a8302d2bb8c9e6040f420a18f283d0425aac61141992bb8a7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -237,4 +237,7 @@ table_of_contents:
   label: 附寄馮蕙庭君調養牌胃諭
   type: section
   level: 2
-hash: sha256:e1921e9c0e926da0529f475d99b89c6cf16e16b29b652bbcfbac35861d3ccf90
+hash: sha256:a23f2aac9af3e6561b561a091dd832fb5bd5bd1e1a40e7e66d03803fe9652c1e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
